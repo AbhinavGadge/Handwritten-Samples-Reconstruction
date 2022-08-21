@@ -19,3 +19,15 @@ Common specifications need to be followed are mentioned below:
 • Network Layer Type: Linear
 
 • No of intermediate nodes in discriminator: 500 • Auto encoder network LR: 0.0001 • Discriminator network LR: 0.00005
+
+** TASKS to be done **
+
+1: Plot a sample of generated image and real image for all 0-9 digits.
+
+2: Plot the reconstruction loss and discriminator loss over all the epochs in one graph. Comments on the nature/trend of the graphs produced. 
+
+3: Write the entire training process of the vanilla adversarial autoencoder in brief and con-cise 3-5 step algorithm. 
+
+4. Plot the training accuracy and loss values for all the 3 loss functions as 2 separate plots. 
+
+5. Based on the plots in Q4, provide your comments on which of the suggested loss func-tions is best for the current task and why?
