@@ -28,6 +28,6 @@ Common specifications need to be followed are mentioned below:
 
 3: Write the entire training process of the vanilla adversarial autoencoder in brief and con-cise 3-5 step algorithm. 
 
-4. Plot the training accuracy and loss values for all the 3 loss functions as 2 separate plots. 
+4: Plot the training accuracy and loss values for all the 3 loss functions as 2 separate plots. 
 
-5. Based on the plots in Q4, provide your comments on which of the suggested loss func-tions is best for the current task and why?
+5: Based on the plots in Q4, provide your comments on which of the suggested loss func-tions is best for the current task and why?
